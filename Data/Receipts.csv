@@ -1,0 +1,4 @@
+First Name,Last Name,Billing Country,Postal Code,Transaction Made At,Payment Method Type,Invoice Number,Description,Tax Amount,Sub Total,Total Amount,Currency Code
+Nikhil,Malkari,us,14623,"4/20/22, 4:03 AM",CreditCard,7545850253,Refund for order 7545820103 : Premium Career Subscription, -2.4, -29.99, -32.39,USD
+Nikhil,Malkari,us,14623,"4/20/22, 3:31 AM",CreditCard,7545820103,Premium Career Subscription renewal (Monthly),2.4,29.99,32.39,USD
+Nikhil,Malkari,us,14623,"3/20/22, 3:33 AM",CreditCard,7445156903,Premium Career Subscription (Monthly),0,0,0,USD
